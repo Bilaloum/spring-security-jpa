@@ -1,7 +1,8 @@
-package com.bilal.spring.security.jpa;
+package com.bilal.spring.security.jpa.service;
 
 import com.bilal.spring.security.jpa.models.MyUserDetails;
 import com.bilal.spring.security.jpa.models.User;
+import com.bilal.spring.security.jpa.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

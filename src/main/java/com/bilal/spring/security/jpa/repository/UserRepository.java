@@ -1,4 +1,4 @@
-package com.bilal.spring.security.jpa;
+package com.bilal.spring.security.jpa.repository;
 
 import com.bilal.spring.security.jpa.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
